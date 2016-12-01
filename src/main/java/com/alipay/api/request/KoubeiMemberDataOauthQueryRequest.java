@@ -1,12 +1,11 @@
 package com.alipay.api.request;
 
-import com.alipay.api.domain.KoubeiMemberDataOauthQueryModel;
 import java.util.Map;
 
+import com.alipay.api.AlipayObject;
 import com.alipay.api.AlipayRequest;
 import com.alipay.api.internal.util.AlipayHashMap;
 import com.alipay.api.response.KoubeiMemberDataOauthQueryResponse;
-import com.alipay.api.AlipayObject;
 
 /**
  * ALIPAY API: koubei.member.data.oauth.query request
